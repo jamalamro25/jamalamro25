@@ -2,17 +2,22 @@
 
 MSc Data Science | Senior Data Analyst | Power BI Specialist  
 
-Senior Data Analytics professional with 17+ years of experience in IT, Network Infrastructure, and Data-Driven Decision Support across Oil & Gas, Humanitarian, and Public Sector organizations. Currently pursuing an MSc in Data Science at Cardiff Metropolitan University, focusing on Big Data, Machine Learning, and Distributed Systems.
+📍 Cardiff, United Kingdom  
+🎓 MSc Data Science – Cardiff Metropolitan University  
+🔎 Open to Data Analyst / BI Developer / Data Engineer Opportunities  
+
+Senior Data Analytics professional with 17+ years of experience in IT, Network Infrastructure, and Data-Driven Decision Support across Oil & Gas, Humanitarian, and Public Sector organizations. Currently pursuing an MSc in Data Science, focusing on Big Data, Machine Learning, and Distributed Systems.
 
 ---
 
 ## 🚀 Technical Skills
 
+
 - Python (Pandas, NumPy, Scikit-learn)
-- SQL Server & Advanced SQL
+- SQL Server & Advanced SQL (Joins, Views, Stored Procedures, Indexing)
 - Power BI (DAX, Data Modeling, KPI Dashboards)
 - Tableau Data Visualization
-- Spark & PySpark (Big Data Processing)
+- Spark & PySpark (Distributed Data Processing)
 - Streamlit App Development
 - Big Data Analytics & ETL Pipelines
 - Data Cleaning, Transformation & Feature Engineering
@@ -22,21 +27,31 @@ Senior Data Analytics professional with 17+ years of experience in IT, Network I
 ## 📊 Featured Projects
 
 ### 🔹 HR Analytics Dashboard (Power BI)
-Executive-level HR dashboard providing workforce performance insights including employee demographics, promotion readiness, attrition indicators, and service tenure distribution.
+Executive-level HR dashboard providing workforce performance insights including employee demographics, promotion readiness, attrition indicators, and service tenure distribution using advanced DAX measures and interactive KPI visualizations.
+
+### 🔹 ABC Business License Analysis (Tableau)
+Comprehensive business license data analysis project built entirely in Power BI, including data modeling, transformation, KPI design, and interactive dashboards to support decision-making and trend analysis.
 
 ### 🔹 Air Quality ML Prediction App (Streamlit)
 End-to-end Machine Learning project including EDA, feature engineering, model training, evaluation, and deployment using Streamlit for interactive prediction.
 
-### 🔹 ABC Business License Data Analysis (Python + Tableau)
-Exploratory Data Analysis and visualization project combining Python-based data preprocessing with Tableau dashboards to generate actionable business insights.
+---
+
+## 🏗 Enterprise & Professional Experience
+
+- 17+ years in IT Infrastructure & Network Systems
+- Data reporting and analytics automation for enterprise environments
+- KPI performance monitoring systems
+- Cross-functional collaboration with business and technical stakeholders
 
 ---
 
-## 📚 Currently Learning
+## 📚 Currently Developing Expertise In
 
 - Spark Big Data Processing
 - Distributed Systems & Scalable Architectures
-- Research Methodology (MSc Dissertation Phase)
+- Machine Learning Model Optimization
+- MSc Dissertation Research
 
 ---
 
@@ -51,7 +66,7 @@ Exploratory Data Analysis and visualization project combining Python-based data 
 
 ## 🌐 Portfolio & Contact
 
-Website: https://jamro.lovable.app/ 
+Website: https://jamro.lovable.app/
 LinkedIn: https://www.linkedin.com/in/jamal-amro-11918891/
 GitHub: https://github.com/jamalamro25  
 
